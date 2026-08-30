@@ -383,6 +383,14 @@ footer {
         text-align: center;
     }
 
+    .hero-section .text h2 {
+        font-size: 30px;
+    }
+
+     .hero-section .text p {
+        font-size: 16px;
+    }
+
     .hero-section .image img {
         width: 250px;
         height: 250px;
@@ -393,8 +401,12 @@ footer {
         padding: 30px 20px;
     }
 
+    .skills-section h2 {
+        font-size: 26px;
+    }
+
     .skills-section .text {
-        font-size: 17px;
+        font-size: 16px;
     }
 
     .skills-section .cells .cell {
@@ -406,8 +418,15 @@ footer {
         padding: 30px 20px;
     }
 
+    .section-heading h2 {
+        font-size: 26px;
+    }
+
+    .section-heading p {
+        font-size: 17px;
+    }
+
     .about-content {
-        padding: 20px;
         font-size: 16px;
     }
 
